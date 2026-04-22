@@ -1,6 +1,6 @@
 # 🎮 Super Tic Tac Toe
 
-A modern and interactive Tic Tac Toe game built using **Java Swing** with both Classic and Super modes.
+A modern **Java Swing-based Tic Tac Toe game** with both Classic and Super modes, featuring a clean UI and advanced gameplay mechanics.
 
 ---
 
@@ -9,30 +9,24 @@ A modern and interactive Tic Tac Toe game built using **Java Swing** with both C
 * Classic Tic Tac Toe (3x3)
 * Super Tic Tac Toe (nested board gameplay)
 * Dark themed modern UI
-* Player name input
-* Match settings (Best of 3 / 5)
+* Player name input system
+* Match settings (Best of 3 / Best of 5)
 * Timer-based gameplay
 * Score tracking system
 
 ---
 
-## 🧠 Game Modes
+## 🧠 Game Concept
 
-### 🔹 Classic Mode
-
-Standard 3x3 Tic Tac Toe game.
-
-### 🔹 Super Mode
-
-Play on a grid of Tic Tac Toe boards where each move controls your opponent’s next move.
+Super Tic Tac Toe (also called Ultimate Tic Tac Toe) is played on a **3×3 grid of Tic Tac Toe boards**, where each move determines the opponent’s next move. ([Wikipedia][1])
 
 ---
 
 ## ⚙️ Technologies Used
 
 * Java
-* Java Swing
-* OOP Concepts
+* Java Swing (GUI)
+* Object-Oriented Programming
 
 ---
 
@@ -47,7 +41,17 @@ java SuperTicTacToe
 
 ## 📂 Main File
 
-* SuperTicTacToe.java 
+* SuperTicTacToe.java
 
 ---
 
+## ⭐ Future Improvements
+
+* Add AI opponent
+* Add sound effects
+* Improve animations
+* Add online multiplayer
+
+---
+
+[1]: https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe?utm_source=chatgpt.com "Ultimate tic-tac-toe"
